@@ -54,7 +54,7 @@ Note: The API key is only required to use the feature that displays the whole de
      
 4. Set your API key on the extension.
   
-  * Go to: https://www.youtube.com
-  * Open extension settings in the top right of chrome (may have to click puzzle piece to access if extension isn't pinned)
-  * Paste API key into the appropriate spot in the settings page.
+    * Go to: https://www.youtube.com
+    * Open extension settings in the top right of chrome (may have to click puzzle piece to access if extension isn't pinned)
+    * Paste API key into the appropriate spot in the settings page.
   ![](APIDirections.PNG)
